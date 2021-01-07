@@ -1,0 +1,3 @@
+Hacker News is a social news website focusing on computer science and entrepreneurship.
+Hacker News clone is a site that fetches Hacker News Stories using the Hacker News API.
+It allows to see the comments on a story as well as to read the story.
